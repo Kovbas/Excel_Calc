@@ -1,4 +1,4 @@
-I created this generator because I wanted to automate creating Contents for DjVu files.
+I created this DjVu Contents (TOC) generator because I wanted to automate creating Contents for DjVu files.
 That moment I didn't know about this project http://handyoutlinerfo.sourceforge.net/
 Anyway I want to improve my file, because it can be used inside LibreOffice with its advantages.
 
